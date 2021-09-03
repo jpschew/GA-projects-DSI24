@@ -7,9 +7,9 @@ Students in the United States(U.S) either take the ACT or SAT as a requirement f
 
 1)  The participation rate for SAT had an inverse relationship with the particition rate of ACT. It is obeserved that there is a trend in the small shift from ACT to SAT due to the change in policy in having mandatory SAT for college admissions particularly in two states namely Colorado and Illinois.
 
-2) With the dataset, the probability of state with above average SAT participation rate given that the state had a below average ACT participation gave a probability of 0.95 and 0.96 in 2017 and 2018 respectively. Hence, the focus would be to persuade the students from the 16 states that has a slightly below average ACT participation rate. These 16 states include California, Connecticut, District Of Columbia, Georgia, Idaho, Indiana, Maryland, Massachusetts, Michigan, New Jersey, New York, Oregon, Texas, Vermont, Virginia snd Washington.
+2) With the dataset, the probability of state with above average SAT participation rate given that the state had a below average ACT participation gave a probability of 0.95 and 0.96 in 2017 and 2018 respectively. Hence, the focus would be to persuade the students from the 9 states that has a slightly below average ACT participation rate. These 9 states include California, Georgia, Indiana, Maryland, Oregon, Texas, Vermont, Virginia snd Washington.
 
-3) With the above observation and analysis, it is recommended that the resources should focus on the 16 states that have a slightly below average ACT participation rate where the College Board can have an agreement with the 16 states to have SAT mandatory for their college admissions.
+3) With the above observation and analysis, recommended that the resources should focus on the 9 states that have a slightly below average ACT participation rate where the College Board can have an agreement with the 9 states to have SAT mandatory for their college admissions.
 
 ---
 
