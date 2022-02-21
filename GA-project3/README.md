@@ -13,8 +13,8 @@ Web-scraping using the reddit API gathers the data needed for training and testi
 
 Below is the table that summarize the performance of all the 14 models.
 
-| Model | Vectorizer | Accuracy | Sensitivity | Specificity | Precision | F1_score |
-| --- | --- | --- | --- | --- | --- | --- |
+| Model | Vectorizer | Accuracy | Misclassification | Sensitivity | Specificity | Precision | F1_score |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Logistic Regression | cvec | 0.849 | 0.151 | 0.814 | 0.885 | 0.874 | 0.842 |
 | Logistic Regression | tvec | 0.857 | 0.143 | 0.852 | 0.861 | 0.857 | 0.855 |
 | MultinomialNB | cvec | 0.857 | 0.143 | 0.897 | 0.818 | 0.828 | 0.861 |
